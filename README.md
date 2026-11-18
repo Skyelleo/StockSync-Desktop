@@ -31,7 +31,7 @@ Whether you're managing hundreds or thousands of products, our goal is to make s
 
 ## Privacy & Data Ownership
 
-StockSync Desktop is being designed with a local-first approach. Our goal is to keep business data, supplier files and product catalogues on the user's own computer rather than requiring cloud uploads or subscriptions.
+StockSync Desktop is being designed with a local-first approach. Our goal is to keep business data, supplier files and product catalogues on the user's own computer rather than requiring cloud uploads or subscriptions.(I am heavy on privacy so no data collection on StockSync)
 
 ## Community-Driven Development
 
